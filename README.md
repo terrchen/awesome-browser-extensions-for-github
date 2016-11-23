@@ -25,6 +25,7 @@
 - [Github Repo Size](#github-repo-size)
 - [Github Travis Stat](#github-travis-stat)
 - [github.expandinizr](#github.expandinizr)
+- [GitSense Insight](#gitsense-insight)
 - [Gitter Helper](#gitter-helper)
 - [Hide files on GitHub](#hide-files-on-github)
 - [Isometric Contributions](#isometric-contributions)
@@ -255,6 +256,18 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 <details><summary>Screenshots</summary>
  ![github.expandinizr](https://dl.dropboxusercontent.com/s/7e9g9g0l445j90m/github-expandinizr.jpg)
+</details>
+
+## [GitSense Insight](https://github.com/gitsense/insight)
+<a href="https://chrome.google.com/webstore/detail/gitsense-insight/fgnjcebdincofoebkahonlphjoiinglo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+<a href=https://gitsense.com/blog/gitsense-insight.html>GitSense Insight</a>, along with <a href=https://gitsense.com/download>GitSense Server</a>, provides always relevant search and code change analytics.  With them, you can search and analyze any branch, from any repo and in any combination.
+
+<details><summary>Screenshots</summary>
+ ![GitSense Insight](https://raw.githubusercontent.com/gitsense/insight/insight/images/seamless-search.gif)
+ 
+ ![GitSense Insight](https://raw.githubusercontent.com/gitsense/insight/insight/images/github-org.png)
+  
 </details>
 
 
